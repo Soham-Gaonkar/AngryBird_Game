@@ -1,2 +1,2 @@
-# AngryBird_Game
-Classic Angry Bird from purely JS without any library.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
